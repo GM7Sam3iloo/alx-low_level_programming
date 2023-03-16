@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main function
+ * main - this is the main function
  * 
- * returns: always returns 0
+ * Return: always 0
  */
 
 int main(void)
