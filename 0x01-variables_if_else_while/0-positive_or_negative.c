@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /**
  * main - Entry point
@@ -10,7 +11,7 @@ int main(void)
 {
 	int n;
 
-	scanf("%d\n", &n);
+	n = rand();
 
 	if (n > 0)
 	{
